@@ -1,1 +1,1 @@
-# holbertonschool_zero-day
+#This is my *first* project at Holbertoon School, creating and setting up my Git and Github.
